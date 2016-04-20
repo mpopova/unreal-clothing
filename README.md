@@ -13,6 +13,8 @@ The plugin will add functionality to UE4:
 
 *Important: This project is under development!*
 
+Note: SurvivalGame is demo game that I will use to test the plugin.
+
 # Unreal Engine плъгин за обличане на герои
 
 ######Характеристики:
