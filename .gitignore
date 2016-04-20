@@ -14,3 +14,7 @@ Build/
 DerivedDataCache/
 Intermediate/
 Saved/
+
+# Database files
+*.VC.db
+*.VC.opendb
