@@ -3,3 +3,14 @@
 
 # Ada Library Information
 *.ali
+
+## Ignore UE4 files
+
+*.sln
+*.vcxproj
+*.xcodeproj
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
