@@ -11,8 +11,6 @@ The plugin will add functionality to UE4:
 5. Compatible with every body mod.
 6. Combining shoes and clothes.
 
-*Important: This project is under development!*
-
 Note: SurvivalGame is demo game that I will use to test the plugin.
 
 # Unreal Engine плъгин за обличане на герои
@@ -25,4 +23,4 @@ Note: SurvivalGame is demo game that I will use to test the plugin.
 5. Съвместим спрямо размерите на всеки герой.
 6. Комбинация на дрехи и обувки.
 
-Този проект е в процес на разработка, свързан с курса "Архитектура и дизайн на игрови двигатели" във ФМИ, 2015/2016 уч.година.
+Този проект е свързан с курса "Архитектура и дизайн на игрови двигатели" във ФМИ, 2015/2016 уч.година.
